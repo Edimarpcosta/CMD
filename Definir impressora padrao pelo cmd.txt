@@ -1,0 +1,14 @@
+https://community.spiceworks.com/how_to/2564-how-to-set-the-default-printer-via-command-line-prompt
+
+RUNDLL32 PRINTUI.DLL,PrintUIEntry /y /n "HP Officejet Pro 8500"
+
+
+
+
+https://www.windows-commandline.com/set-default-printer-in-windows-7/
+
+Pegar nome:
+wmic printer where default='TRUE' get name
+
+Setar:
+wmic printer where name='HP Photosmart C4600 series' call setdefaultprinter
