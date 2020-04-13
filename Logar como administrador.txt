@@ -1,0 +1,11 @@
+Abra o Prompt como administrador e
+
+digite os comandos abaixo:
+
+
+Para Ativar 
+net user Administrador /active:yes
+
+
+Para Desativar
+net user Administrador /active:no
