@@ -1,0 +1,4 @@
+@echo off
+color c
+cd "Letra":\
+del /Q C:\D\*.*
