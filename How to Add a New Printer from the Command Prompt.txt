@@ -1,0 +1,3 @@
+http://woshub.com/manage-printers-and-drivers-from-the-command-line-in-windows-8/
+
+C:/> cscript "C:\Windows\System32\Printing_Admin_Scripts\pt-BR\prnmngr.vbs" -a -p "HP5520" -m "HP Universal Printing PCL 6" -r "lpt1:"
