@@ -1,0 +1,1 @@
+wmic printer list brief >> impressoras.txt
